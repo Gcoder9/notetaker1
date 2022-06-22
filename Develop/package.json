@@ -1,11 +1,15 @@
 {
-  "name": "notetaker1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "express": "^4.18.1"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "notetaker1",
+  "description": "![License: MIT](https://img.shields.io/static/v1?label=License&message=mit&color=blue)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gcoder9/notetaker1.git"
