@@ -36,15 +36,15 @@ Click the Save icon in the navigation bar in the top right of the screen.
 
 Application preview:
 
-![notetakerhome]()
+![notetakerhome](Note-TakerHome.png)
 
-![notetakertitle]()
+![notetakertitle](Note-TakerText.png)
 
-[Live Application]()
+[Live Application](https://whispering-reaches-08280.herokuapp.com/)
 
 ## Credits
 
-This project was created using [EXPRESS.JS]
+This project was created using (EXPRESS.JS)
 - [Node.js](https://nodejs.org/en/)
 
 ## Questions
