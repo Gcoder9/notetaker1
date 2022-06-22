@@ -42,8 +42,7 @@ class Save {
             .then(updatedNotes => this.write(updatedNotes))
             .then(() => newNote);
     }
-
-    // Delete Note function - BONUS
+// Delete Note function 
     deleteNote(id) {
         return this.retrieveNotes()
             .then(notes => notes.filter(note => note.id !== id))
